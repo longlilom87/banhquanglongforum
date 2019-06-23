@@ -10,6 +10,7 @@ body
   height: 100vh;
   background: #000;
   background-image: url("space.jpg");
+  background-size: 1024px 768px;
   color: white;
 }
 p
