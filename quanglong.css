@@ -22,7 +22,7 @@ p
   background: linear-gradient(90deg,#000,#fff,#000);
   animation: animate 3s linear infinite;
   background-repeat: no-repeat;
-  background-size: 80%;
+  background-size: 85%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
