@@ -36,11 +36,11 @@ p2
 {
   0%
   {
-    background-position: -500%;
+    background-position: -900%;
   }
   100%
   {
-    background-position: 500%;
+    background-position: 900%;
     
   }
 }
