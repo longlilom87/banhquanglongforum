@@ -3,8 +3,10 @@
 body
 {
  
-  display: block;
-  margin: 100 auto;
+  display: table;
+  margin: 0 auto;
+  float: none;
+  postion: relative;
   height: 100vh;
   background: #000;
   background-image: url("space.jpg");
