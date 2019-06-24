@@ -18,6 +18,14 @@
  font-family: 'Staatliches',serif;
  }
 
+.topnav h2{
+ padding: 3px 16px 0px ;
+ float: right;
+ font-size: 17px;
+ color: white;
+ font-family: 'Staatliches',serif;
+ }
+
 .topnav a {
   float: left;
   color: #f2f2f2;
