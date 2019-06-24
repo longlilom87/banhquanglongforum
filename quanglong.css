@@ -3,7 +3,6 @@
 
 body
 {
- 
   display: table;
   margin: 0 auto;
   float: none;
@@ -45,6 +44,5 @@ p2
   100%
   {
     background-position: 900%;
-    
   }
 }
