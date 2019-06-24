@@ -1,30 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web);
-header.pc .inner ul.headerOficialLink {
-  margin-left: auto !important;
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-}
-header.pc .inner ul.headerOficialLink li {
-  padding: 0;
-  -webkit-transition: all 0.3s ease;
-  -moz-transition: all 0.3s ease;
-  -o-transition: all 0.3s ease;
-  transition: all  0.3s ease;
-}
-header.pc .inner ul.headerOficialLink li a {
-  display: block;
-  width: 44px;
-  height: 60px;
-  text-indent: -9999px;
-  -webkit-transition: all 0.3s ease;
-  -moz-transition: all 0.3s ease;
-  -o-transition: all 0.3s ease;
-  transition: all  0.3s ease;
-}
+
 body
 {
  
