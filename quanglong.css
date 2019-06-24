@@ -3,7 +3,7 @@
 body
 {
  
-  display: flex;
+  display: block;
   margin: 100 auto;
   height: 100vh;
   background: #000;
