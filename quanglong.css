@@ -1,5 +1,36 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+header.pc .inner {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+  height: 80px;
+  padding: 0 10px 0 20px;
+}
+@media (max-width: 37.5em) {
+  header.pc .inner {
+    height: 40px;
+  }
+}
+header.pc .inner h1 a {
+  display: block;
+  background: url("header_logo.png") top left no-repeat;
+  width: 159px;
+  height: 51px;
+  text-indent: -9999px;
+}
+@media (max-width: 37.5em) {
+  header.pc .inner h1 a {
+    background-size: contain;
+    width: 81px;
+    height: 25px;
+  }
 body
 {
  
