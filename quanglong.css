@@ -80,16 +80,23 @@ p2
   }
 }
 @media only screen and (min-width: 401px) and (max-width:960px){
-.topnav, body, p, p2{
-	font-size: 200%;
+	.topnav{
+  font-size: 20px;
+		}
+	p{
+  font-size: 5em;
 	}
+	p2{
+  font-size: 18px;
 }
-
-@media only screen and (max-width: 401px)
-{
-.topnav, body, p, p2{
-	font-size: 300%;
+@media only screen and (max-width: 401px) {
+.topnav{
+  font-size: 23px;
+		}
+	p{
+  font-size: 6em;
 	}
+	p2{
+  font-size: 20px;
 }
-
 
