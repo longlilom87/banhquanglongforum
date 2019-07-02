@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web);
 @import url(https://fonts.googleapis.com/css?family=Staatliches);
+@import url(https://fonts.googleapis.com/css?family=Jua);
 
 .topnav {
   background-color: black;
@@ -33,20 +34,22 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: 'Jua',regular;
 }
 
 
 .topnav a:hover {
   color: white;
   font-size: 20px;
-  transition: font-size 0.5s ease;
+  transition-property: font-size;
+  transition-duration: 0.5s;
 }
 
 
 .topnav a.active {
-  background-color: #4CAF50;
   color: white;
-
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00b0e6, 0 0 40px #00b0e6, 0 0 50px #00b0e6, 0 0 60px #00b0e6, 0 0 70px #00b0e6;
+  
 }
 body
 {
