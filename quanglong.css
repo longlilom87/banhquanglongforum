@@ -2,13 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web);
 @import url(https://fonts.googleapis.com/css?family=Staatliches);
 @import url(https://fonts.googleapis.com/css?family=Jua);
-
-.topnav {
-  background-color: black;
-  overflow: hidden;
-  opacity: 50%;
-  border-bottom: 5px #4CAF50;
- 
+.topnav
+{
+overflow:hidden;
 }
 
 .topnav h1{
